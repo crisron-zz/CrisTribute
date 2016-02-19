@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.bg-grey {
+	background-color: #777;
+}
+
+#bio {
+	font-family: Lobster, Monospace;
+}
