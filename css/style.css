@@ -1,16 +1,11 @@
 @charset "utf-8";
 
-.bg-grey {
-	background-color: #EEE;
-}
-
 .italic-text {
 	font-style: italic;
 	font-size: 50px;
 }
 
 .details {
-	font-weight: bold;
 	font-size: 25px;
 	text-align: justify;
 	padding-left: 200px;
