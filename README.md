@@ -1,2 +1,2 @@
 # CrisTribute
-A (Tribute)[http://codepen.io/crisron/full/ZQNdPG/] to Cristiano Ronaldo
+A [Tribute](http://codepen.io/crisron/full/ZQNdPG/) to Cristiano Ronaldo
